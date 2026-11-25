@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "redmi13c",
+    "nombre": "Redmi 13C",
+    "precio": 2299,
+    "usos": {
+      "escuela": 7,
+      "gaming": 3,
+      "fotos": 4
+    },
+    "razones": {
+      "escuela": "Su batería permite cubrir una jornada habitual de clases y mensajería.",
+      "gaming": "Es adecuado para juegos ligeros; los títulos exigentes pueden presentar limitaciones.",
+      "fotos": "La cámara ofrece resultados básicos, adecuados para fotografías cotidianas."
+    },
+    "categoria": "celulares",
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 4,
+      "hz": 60,
+      "fotosNota": 4,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "5000 mAh; depende del uso",
+        "apps": "4 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 4 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "motog14",
+    "nombre": "Moto G14",
+    "precio": 2899,
+    "usos": {
+      "escuela": 7,
+      "gaming": 3,
+      "fotos": 5
+    },
+    "razones": {
+      "escuela": "Cumple con lo básico: clases en línea, tareas y redes.",
+      "gaming": "Aguanta juegos sencillos, nada exigente.",
+      "fotos": "Ofrece fotografías aceptables en condiciones de buena iluminación."
+    },
+    "categoria": "celulares",
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 4,
+      "hz": 90,
+      "fotosNota": 5,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "5000 mAh; depende del uso",
+        "apps": "4 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 5 de 10",
+        "pantalla": "90 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "a15",
+    "nombre": "Samsung Galaxy A15",
+    "precio": 3799,
+    "usos": {
+      "escuela": 8,
+      "gaming": 4,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Pantalla bonita para videos y clases, y batería para todo el día.",
+      "gaming": "Permite ejecutar juegos de exigencia media con ajustes gráficos bajos.",
+      "fotos": "La calidad fotográfica es adecuada para su rango de precio."
+    },
+    "categoria": "celulares",
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 6,
+      "hz": 120,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "5000 mAh; depende del uso",
+        "apps": "6 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 6 de 10",
+        "pantalla": "120 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "redmi13",
+    "nombre": "Redmi Note 13",
+    "precio": 4299,
+    "usos": {
+      "escuela": 8,
+      "gaming": 5,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Batería de 1.5 días y rinde bien: de lo mejor por lo que cuesta.",
+      "gaming": "Corre la mayoría de juegos, pero no en lo máximo.",
+      "fotos": "Fotos buenas de día; de noche batalla un poco."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#4a5d7a",
+      "variante": "punch",
+      "bateriaMah": 5000,
+      "ram": 8,
+      "hz": 120,
+      "fotosNota": 7,
+      "fallas": 2,
+      "humano": {
+        "bateria": "1.5 días jugando sin cargar",
+        "apps": "7 apps abiertas sin lag",
+        "espacio": "Caben como 8 mil fotos (128 GB)",
+        "fotos": "Buenas de día, de noche batalla un poco",
+        "pantalla": "Muy suave al hacer scroll (120 Hz)",
+        "fallas": "Pocas fallas en equipos nuevos"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio justo para lo que trae"
+      }
+    },
+    "categoria": "celulares"
+  },
+  {
+    "id": "poco6",
+    "nombre": "POCO X6 5G",
+    "precio": 5299,
+    "usos": {
+      "escuela": 8,
+      "gaming": 8,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Su rendimiento supera las necesidades habituales de uso escolar.",
+      "gaming": "Ofrece un rendimiento competitivo para su precio y permite jugar con fluidez.",
+      "fotos": "Ofrece buenos resultados durante el día y un desempeño fluido en aplicaciones de video."
+    },
+    "categoria": "celulares",
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 8,
+      "hz": 90,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "5000 mAh; depende del uso",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "90 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "motog84",
+    "nombre": "Moto G84",
+    "precio": 5999,
+    "usos": {
+      "escuela": 8,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Mucha memoria y batería para 1.5 días.",
+      "gaming": "Puede ejecutar juegos de exigencia media de forma estable.",
+      "fotos": "Ofrece buenos resultados fotográficos con iluminación suficiente y video estable."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#008c99",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 12,
+      "hz": 120,
+      "fotosNota": 7,
+      "fallas": 2,
+      "humano": {
+        "bateria": "1.5 días jugando sin cargar",
+        "apps": "10 apps abiertas sin lag",
+        "espacio": "Caben como 16 mil fotos (256 GB)",
+        "fotos": "Buenas con luz y el video sale estable",
+        "pantalla": "Muy suave al hacer scroll (120 Hz)",
+        "fallas": "Pocas fallas en equipos nuevos"
+      },
+      "semaforo": {
+        "nivel": "ojo",
+        "texto": "Precio razonable; se recomienda comparar ofertas"
+      }
+    },
+    "categoria": "celulares"
+  },
+  {
+    "id": "a35",
+    "nombre": "Samsung Galaxy A35",
+    "precio": 6499,
+    "usos": {
+      "escuela": 8,
+      "gaming": 6,
+      "fotos": 8
+    },
+    "razones": {
+      "escuela": "Pantalla bonita y rendimiento parejo todo el día.",
+      "gaming": "Es adecuado para juegos de exigencia media; existen alternativas más orientadas al rendimiento.",
+      "fotos": "Fotos limpias y colores bonitos para subir a redes."
+    },
+    "categoria": "celulares",
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 8,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "5000 mAh; depende del uso",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 8 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "pocopro",
+    "nombre": "POCO X6 Pro",
+    "precio": 7199,
+    "usos": {
+      "escuela": 8,
+      "gaming": 9,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Su rendimiento supera las necesidades habituales de uso escolar; puede considerar una opción de menor costo.",
+      "gaming": "Es la opción con mayor rendimiento de esta selección para juegos exigentes.",
+      "fotos": "Ofrece fotografías adecuadas; su principal ventaja es el rendimiento."
+    },
+    "categoria": "celulares",
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 4,
+      "hz": 90,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "5000 mAh; depende del uso",
+        "apps": "4 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "90 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "iphone12",
+    "nombre": "iPhone 12 Reac.",
+    "precio": 7999,
+    "usos": {
+      "escuela": 7,
+      "gaming": 7,
+      "fotos": 9
+    },
+    "razones": {
+      "escuela": "Ofrece un funcionamiento fluido, aunque su batería tiene menor capacidad; considere la disponibilidad de carga.",
+      "gaming": "Mantiene un rendimiento adecuado en juegos, aunque es un modelo de generación anterior.",
+      "fotos": "Destaca por la calidad de fotografía y video."
+    },
+    "detalle": {
+      "tipo": "Reacondicionado",
+      "color": "#222b3a",
+      "variante": "notch",
+      "bateriaMah": 2815,
+      "ram": 4,
+      "hz": 60,
+      "fotosNota": 9,
+      "fallas": 3,
+      "humano": {
+        "bateria": "Un día normal; si le das duro, justito",
+        "apps": "Pocas apps a la vez, pero iOS las cuida bien",
+        "espacio": "Caben como 8 mil fotos (128 GB)",
+        "fotos": "Las mejores fotos y video de los tres",
+        "pantalla": "Colores bonitos, pero menos suave (60 Hz)",
+        "fallas": "Depende del vendedor: batería gastada o piezas cambiadas"
+      },
+      "semaforo": {
+        "nivel": "mal",
+        "texto": "Caro: pide rebaja y garantía por escrito"
+      }
+    },
+    "categoria": "celulares"
+  },
+  {
+    "id": "a55",
+    "nombre": "Samsung Galaxy A55",
+    "precio": 8999,
+    "usos": {
+      "escuela": 8,
+      "gaming": 6,
+      "fotos": 9
+    },
+    "razones": {
+      "escuela": "Sus características superan las necesidades habituales de uso escolar.",
+      "gaming": "Juegos medianos; para gaming hay opciones más baratas y mejores.",
+      "fotos": "Foto y video de lo mejor en gama media."
+    },
+    "categoria": "celulares",
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5000,
+      "ram": 6,
+      "hz": 60,
+      "fotosNota": 9,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "5000 mAh; depende del uso",
+        "apps": "6 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 9 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-ideapad1",
+    "nombre": "Lenovo IdeaPad 1",
+    "precio": 8999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 7,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "7 h de trabajo aproximadas",
+        "apps": "8 GB de RAM para multitarea",
+        "espacio": "SSD de 256 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 6 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-aspire3",
+    "nombre": "Acer Aspire 3",
+    "precio": 9999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 8,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "8 h de trabajo aproximadas",
+        "apps": "8 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 6 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-vivobook15",
+    "nombre": "ASUS VivoBook 15",
+    "precio": 11999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 8,
+      "ram": 16,
+      "hz": 60,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "8 h de trabajo aproximadas",
+        "apps": "16 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-hp15",
+    "nombre": "HP 15-fc",
+    "precio": 10999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 8,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "8 h de trabajo aproximadas",
+        "apps": "8 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 6 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-inspiron15",
+    "nombre": "Dell Inspiron 15",
+    "precio": 12999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 7,
+      "ram": 16,
+      "hz": 60,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "7 h de trabajo aproximadas",
+        "apps": "16 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-thinkpad-e14",
+    "nombre": "Lenovo ThinkPad E14",
+    "precio": 16999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 9,
+      "ram": 16,
+      "hz": 60,
+      "fotosNota": 7,
+      "fallas": 1,
+      "icono": "💻",
+      "humano": {
+        "bateria": "9 h de trabajo aproximadas",
+        "apps": "16 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ojo",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-macairm1",
+    "nombre": "MacBook Air M1",
+    "precio": 15999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 8
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 12,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 8,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "12 h de trabajo aproximadas",
+        "apps": "8 GB de RAM para multitarea",
+        "espacio": "SSD de 256 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 8 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ojo",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-gf63",
+    "nombre": "MSI Thin GF63",
+    "precio": 17999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 5,
+      "ram": 16,
+      "hz": 144,
+      "fotosNota": 7,
+      "fallas": 3,
+      "icono": "💻",
+      "humano": {
+        "bateria": "5 h de trabajo aproximadas",
+        "apps": "16 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "144 Hz; revisa brillo y resolución",
+        "fallas": "Conviene revisar garantía y opiniones"
+      },
+      "semaforo": {
+        "nivel": "ojo",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-tuf-a15",
+    "nombre": "ASUS TUF Gaming A15",
+    "precio": 21999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 6,
+      "ram": 16,
+      "hz": 144,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "6 h de trabajo aproximadas",
+        "apps": "16 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "144 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ojo",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "lap-loq15",
+    "nombre": "Lenovo LOQ 15",
+    "precio": 23999,
+    "categoria": "laptops",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 6,
+      "ram": 16,
+      "hz": 144,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "💻",
+      "humano": {
+        "bateria": "6 h de trabajo aproximadas",
+        "apps": "16 GB de RAM para multitarea",
+        "espacio": "SSD de 512 GB para archivos y programas",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "144 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ojo",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-watchse2",
+    "nombre": "Apple Watch SE 2",
+    "precio": 4999,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 1,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "1 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "32 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-watch10",
+    "nombre": "Apple Watch Series 10",
+    "precio": 8999,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 8
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 1,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 8,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "1 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "64 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-galaxyfe",
+    "nombre": "Samsung Galaxy Watch FE",
+    "precio": 3999,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 1.5,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "1.5 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "16 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-watch7",
+    "nombre": "Samsung Galaxy Watch7",
+    "precio": 5499,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 1.5,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "1.5 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "32 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-watchultra",
+    "nombre": "Samsung Galaxy Watch Ultra",
+    "precio": 10999,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 8
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 2,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 8,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "2 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "32 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-redmi4",
+    "nombre": "Xiaomi Redmi Watch 4",
+    "precio": 1999,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 5
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 20,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 5,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "20 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "4 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-band9",
+    "nombre": "Xiaomi Smart Band 9",
+    "precio": 899,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 4
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 21,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 4,
+      "fallas": 1,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "21 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "0 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-gtr4",
+    "nombre": "Amazfit GTR 4",
+    "precio": 3999,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 5
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 14,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 5,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "14 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "4 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-gt4",
+    "nombre": "Huawei Watch GT 4",
+    "precio": 4999,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 7,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "7 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "4 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "rel-fit3",
+    "nombre": "Huawei Watch Fit 3",
+    "precio": 2499,
+    "categoria": "relojes",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 5
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 7,
+      "ram": 0,
+      "hz": 60,
+      "fotosNota": 5,
+      "fallas": 2,
+      "icono": "⌚",
+      "humano": {
+        "bateria": "7 días por carga",
+        "apps": "0 funciones y apps básicas",
+        "espacio": "4 GB para apps y música",
+        "fotos": "No está pensado para tomar fotos",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-a9",
+    "nombre": "Samsung Galaxy Tab A9",
+    "precio": 2999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 8,
+      "ram": 4,
+      "hz": 60,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "8 h de uso aproximadas",
+        "apps": "4 GB de RAM para varias apps",
+        "espacio": "64 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 6 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-a9plus",
+    "nombre": "Samsung Galaxy Tab A9+",
+    "precio": 4499,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 10,
+      "ram": 8,
+      "hz": 90,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "10 h de uso aproximadas",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 6 de 10",
+        "pantalla": "90 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-s9fe",
+    "nombre": "Samsung Galaxy Tab S9 FE",
+    "precio": 7999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 12,
+      "ram": 6,
+      "hz": 90,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "12 h de uso aproximadas",
+        "apps": "6 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "90 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-s10fe",
+    "nombre": "Samsung Galaxy Tab S10 FE",
+    "precio": 9999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 8
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 13,
+      "ram": 8,
+      "hz": 90,
+      "fotosNota": 8,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "13 h de uso aproximadas",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 8 de 10",
+        "pantalla": "90 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-redmipadse",
+    "nombre": "Redmi Pad SE",
+    "precio": 3499,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 6
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 10,
+      "ram": 4,
+      "hz": 90,
+      "fotosNota": 6,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "10 h de uso aproximadas",
+        "apps": "4 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 6 de 10",
+        "pantalla": "90 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-redmipadpro",
+    "nombre": "Redmi Pad Pro",
+    "precio": 6999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 12,
+      "ram": 8,
+      "hz": 120,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "12 h de uso aproximadas",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "256 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "120 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-ipad10",
+    "nombre": "Apple iPad 10ª gen.",
+    "precio": 6999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 8
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 10,
+      "ram": 4,
+      "hz": 60,
+      "fotosNota": 8,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "10 h de uso aproximadas",
+        "apps": "4 GB de RAM para varias apps",
+        "espacio": "64 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 8 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-ipadmini",
+    "nombre": "Apple iPad mini",
+    "precio": 11999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 8
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 10,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 8,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "10 h de uso aproximadas",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 8 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-ipadair",
+    "nombre": "Apple iPad Air",
+    "precio": 14999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 9
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 10,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 9,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "10 h de uso aproximadas",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "128 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 9 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  },
+  {
+    "id": "tab-lenovop12",
+    "nombre": "Lenovo Tab P12",
+    "precio": 6999,
+    "categoria": "tablets",
+    "usos": {
+      "escuela": 7,
+      "gaming": 6,
+      "fotos": 7
+    },
+    "razones": {
+      "escuela": "Buena opción para tareas, clases y uso diario según sus especificaciones.",
+      "gaming": "Revisa el rendimiento real y los requisitos de los juegos que quieres usar.",
+      "fotos": "Compara la calidad real de pantalla o cámara, no solo los números."
+    },
+    "detalle": {
+      "tipo": "Nuevo",
+      "color": "#0A1931",
+      "variante": "notch",
+      "bateriaMah": 10,
+      "ram": 8,
+      "hz": 60,
+      "fotosNota": 7,
+      "fallas": 2,
+      "icono": "▣",
+      "humano": {
+        "bateria": "10 h de uso aproximadas",
+        "apps": "8 GB de RAM para varias apps",
+        "espacio": "256 GB para fotos, apps y videos",
+        "fotos": "Cámara / pantalla: nivel 7 de 10",
+        "pantalla": "60 Hz; revisa brillo y resolución",
+        "fallas": "Pocas alertas conocidas en esta ficha"
+      },
+      "semaforo": {
+        "nivel": "ok",
+        "texto": "Precio de referencia; confirma disponibilidad y garantía"
+      }
+    }
+  }
+]
