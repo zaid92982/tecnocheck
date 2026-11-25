@@ -25,15 +25,26 @@ jobs:
         with:
           channel: stable
 
+      - name: Encontrar carpeta del proyecto
+        shell: bash
+        run: |
+          PUBSPEC=$(find . -name pubspec.yaml -not -path '*/.dart_tool/*' -print -quit)
+          if [ -z "$PUBSPEC" ]; then
+            echo "No se encontró pubspec.yaml"
+            exit 1
+          fi
+          echo "PROJECT_DIR=$(dirname "$PUBSPEC")" >> "$GITHUB_ENV"
+
       - name: Preparar dependencias
         run: flutter pub get
+        working-directory: ${{ env.PROJECT_DIR }}
 
       - name: Compilar APK
         run: flutter build apk --release
+        working-directory: ${{ env.PROJECT_DIR }}
 
       - name: Guardar APK
         uses: actions/upload-artifact@v4
         with:
           name: TecnoCheck-APK
-          path: build/app/outputs/flutter-apk/app-release.apk
-
+          path: ${{ env.PROJECT_DIR }}/build/app/outputs/flutter-apk/app-release.apk
